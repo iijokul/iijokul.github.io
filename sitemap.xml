@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://iijokul.github.io/blog/2013/11/15/title/</loc>
+        <lastmod>2013-11-15T10:01:38+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://iijokul.github.io/robots.txt</loc>
         <lastmod>2013-11-15T09:24:46+08:00</lastmod>
     </url>
     <url>
         <loc>http://iijokul.github.io/</loc>
-        <lastmod>2013-11-15T09:24:46+08:00</lastmod>
+        <lastmod>2013-11-15T10:01:38+08:00</lastmod>
     </url>
     <url>
         <loc>http://iijokul.github.io/blog/archives/</loc>
-        <lastmod>2013-11-15T09:24:46+08:00</lastmod>
+        <lastmod>2013-11-15T10:01:38+08:00</lastmod>
     </url>
 </urlset>

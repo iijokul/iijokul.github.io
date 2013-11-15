@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://iijokul.github.io/atom.xml" rel="self"/>
   <link href="http://iijokul.github.io/"/>
-  <updated>2013-11-15T09:29:18+08:00</updated>
+  <updated>2013-11-15T10:01:38+08:00</updated>
   <id>http://iijokul.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[博客测试]]></title>
+    <link href="http://iijokul.github.io/blog/2013/11/15/title/"/>
+    <updated>2013-11-15T09:49:00+08:00</updated>
+    <id>http://iijokul.github.io/blog/2013/11/15/title</id>
+    <content type="html"><![CDATA[<h1>A First Level Header</h1>
+
+<h2>A Second Level Header</h2>
+
+<p>Now is the time for all good men to come to
+the aid of their country. This is just a
+regular paragraph.</p>
+
+<p>The quick brown fox jumped over the lazy
+dog&rsquo;s back.</p>
+
+<h3>Header 3</h3>
+
+<blockquote><p>This is a blockquote.</p>
+
+<p>This is the second paragraph in the blockquote.</p>
+
+<h2>This is an H2 in a blockquote 中文</h2></blockquote>
+]]></content>
+  </entry>
   
 </feed>
